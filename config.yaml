@@ -1,0 +1,10 @@
+folder_tst: /home/user/tst
+folder_in: /home/user/tst/file
+folder_out: /home/user/tst/out
+folder_ext: /home/user/tst/ext
+folder_ext2: /home/user/tst/ext2
+folder_bad_arx: /home/user/tst/bad_arx
+count: 2
+size_of_file: 5
+name_of_arch: '*.7z'
+filename: 'stat.txt'
